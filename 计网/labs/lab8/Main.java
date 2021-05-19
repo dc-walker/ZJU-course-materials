@@ -136,8 +136,8 @@ public class Main {
             return;
         }
 
-        String login = "3180105099";
-        String pass = "5099";
+        String login = "username";
+        String pass = "123456";
 
         void responsePOST(Request req) throws IOException {
             Response res = new Response();
@@ -210,7 +210,7 @@ public class Main {
     }
 
     public static void main(String[] args){
-        int port = 5099;
+        int port = 1234;
         String root = "..\\root";
         System.out.printf("port: %s\n", ""+port);
         System.out.printf("root: %s\n", root);
