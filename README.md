@@ -1,6 +1,12 @@
 # ZJU-courses-pumpkin
-some course materials in learning
 
+updating...
+
+##### update
+2021-7-7 添加了毛概，习概，密码学，删掉了软保
+
+
+##### 说明
 一些自己上过的课程的资料
 
 有机会再更新
