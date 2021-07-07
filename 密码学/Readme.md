@@ -2,7 +2,7 @@
 
 这个是小白的密码学，重点在编程应用，openssl，还有电影
 
-
+github上的markdown没法渲染数学公式，建议review.md用typora打开
 
 ##### 考试卷回忆
 
