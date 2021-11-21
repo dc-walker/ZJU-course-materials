@@ -1,0 +1,64 @@
+.home{
+    height: 100%;
+    background: bisque;
+    padding: 0;
+}
+
+.sider{
+    background: #001529;
+}
+.trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.trigger:hover {
+    color: #1890ff;
+}
+
+.logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+    /*background: #fff;*/
+}
+
+.site-layout-background {
+    padding: 25px;
+    height: auto;
+}
+
+.user-bar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.username{
+    margin: 0 5px;
+    padding: 0;
+    font-size: medium;
+    line-height: inherit;
+    width: 10%;
+    height: 100%;
+    background: #1990FF;
+}
+
+.ant-layout-header, .ant-layout-footer {
+    color: #fff;
+    background: #001529;
+}
+
+.logout{
+    margin: 20px 20px 20px 20px;
+}
+
+.avatar{
+    margin: 20px;
+}

@@ -1,0 +1,48 @@
+.dev-cards{
+    display: flex;
+    flex-direction: column;
+    background: #c1e9e3;
+}
+
+.cards-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.ant-card-head-title{
+    text-align: left;
+}
+
+.device-id{
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.device-id-label{
+    width: 40%;
+    text-align: right;
+}
+
+.device-id-text{
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
+
+.device-line{
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.device-line-description{
+    display: flex;
+    font-size: large;
+    flex-direction: row;
+    width: 90%;
+}
+
+.device-line-item{
+    width: 20%;
+}
