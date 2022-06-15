@@ -1,3 +1,0 @@
-# Readme
-
-lectures removed
